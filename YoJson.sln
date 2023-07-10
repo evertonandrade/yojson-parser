@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoJsonParser.Tests", "YoJsonParser.Tests\YoJsonParser.Tests.csproj", "{542FF494-8FDB-47D8-8987-9587CBCB5E04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoJsonParser", "YoJsonParser\YoJsonParser.csproj", "{DB4DD723-DDBD-45CA-9ED7-2B214709B5F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{542FF494-8FDB-47D8-8987-9587CBCB5E04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{542FF494-8FDB-47D8-8987-9587CBCB5E04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{542FF494-8FDB-47D8-8987-9587CBCB5E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{542FF494-8FDB-47D8-8987-9587CBCB5E04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB4DD723-DDBD-45CA-9ED7-2B214709B5F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB4DD723-DDBD-45CA-9ED7-2B214709B5F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB4DD723-DDBD-45CA-9ED7-2B214709B5F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB4DD723-DDBD-45CA-9ED7-2B214709B5F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
